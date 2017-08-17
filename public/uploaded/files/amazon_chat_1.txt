@@ -1,0 +1,106 @@
+Payment issues, my account got debited, Amazon reflected as not received and now the order is canceled.
+You are now connected to Samuel from Amazon.in
+Samuel: Hello, my name is Samuel. I'll certainly try to help regarding your concern.
+Me: Hello Samuel
+so I'm getting different versions about my situation, kind of worried now
+Not sure if anyone that I'm talking has taken notes on the account
+Samuel: pavan could you please provide me the order ID of the product ?
+Me: ORDER # 408-7451885-6592341
+There are 3 orders , all of them went thru by net back , money debited from my account but amazon didn't show as received and now the order is cancelled
+what is going on here ?
+When I spoke yesterday they said it will be reconcilled
+Samuel: pavan are you referring to this product V Guard TV Stabilizer- Crystal Plus smart for LCD,LED,3D, Smart TVs upto 47" ?
+Me: yes
+The money has already gone into Amazon that is what my Bank is saying
+Samuel: pavan I have checked and I see that the payment which you have made has been stucked and we have not received the payment. I'm sorry for the inconvenience caused to you. however due to repeat payment declined the order has been cancelled and the refund has been initiated from our side. And the refund amount will reflect in your bank account within 2-4 business day's.
+Me: Samuel, I don't understand, when you are saying payment has been stuck and Amazon hasn't received , refund has been initiated , how does the refund come into picture when you are saying you haven't even recieved it
+I need definitive confirmation -- something that reflects on the order that payment was stuck and money was indeed moved into Amazon and now its being refunded..
+Why would the order be cancelled if the money was with Amazon?
+How are you saying that money would be refunded ?
+Are you saying this as a general principle, or is it in clear on your side on your system where you see the amount within amazon's system and now a transaction has been initiated to refund it..
+Samuel: Thank you for the details.
+pavan I have checked completely and I see that the order has been cancelled due to repeated payment declined, so the order has been cancelled and the amount which id deducted from your acccount will be reflect in your account within 2-4 business day's.
+Me: please explain this -- you are saying payment was declined, so order cancelled , if payment was declined how are you saying the system will credit it back ?
+isn't payment declined means you haven't received it ?
+my fear is after 2 days when I come back you / someone else will say we never recieved payment so how can we credit it back for an order that was cancelled and never recieved payment
+Samuel: Yes pavan , the amount has stucked in your bank gate way, so please don't worry the amount will be credited back to your account from your bank.
+Me: so you are now saying the bank will credit it, I spoke to my bank and they are saying they sent it
+so what I need is a letter from Amazon saying they haven't received the funds based on that the bank will start the investigation
+its a complete mess of the transaction
+both amazon and icici screwed up big time on net banking integration
+I don't have problem with amazon, icici sucks , they are not going to do anything until 7 days, i spoke to them yesterday
+You are now reconnected with a new agent Revathi.
+Me: what bothers me is Amazon isn't telling if has received the money in the internal system
+Revathi: Hello, my name is Revathi. I'm sorry your previous chat disconnected. I will try and pick up where you left off.
+Me: do you have the history ? or I need to replay again
+Revathi: I will check with the previous chat . Please stay connected.
+You are now reconnected with a new agent surajpal.
+surajpal: Hello, my name is surajpal. I'm sorry your previous chat disconnected. I will try and pick up where you left off.
+Me: ok
+surajpal: pavan could you please provide me your amazon registered e mail address and your complete shipping address with pin code.
+Me: here is the order
+ORDER # 408-7451885-6592341
+pavan.peddada@gmail.com
+do you need the shipping address ?
+I have multiple
+surajpal: pavan yes.
+Me: which shipping address are you refering ?
+surajpal: 107 Mallikajuna Nagar,
+Me: 18-426 , Mallikajuna nagar, malkajgiri, hyberabad, 500047
+surajpal: pavan could you please provide me the complete address If you don't mind.
+Me: House No : 18-426 Mallikarjuna Nagar, Malkajgiri, Hyderabad, 500047
+surajpal: pavan thank you so much for providing the details.
+pavan as I can check your your order has been cancelled.
+I am really sorry for the same.
+pavan as I can check your payment got declined.
+So that is the reason of cancellation of your order.
+Me: but did you see my notes from earlier chat
+the payment has gone out from my bank
+the money has been already debited
+so who has the money now ?
+surajpal: pavan Please do not worry It will be refunded to you within next 24 hours .
+Me: I got the same answers yesterday
+who is refunding who ?
+need some clarity around that
+surajpal: pavan I would like to tell you that some times due to technical errors in your bamk's payment gateway.
+the payment got declined.
+So Please do not worry you will get your deducted amount earliest.
+Me: ok understood , but who is going to address it
+the bank or amazon
+so my precise question is, is amazon going to do anything
+surajpal: pavan I would like to tell you that bank should be responsuible for this.
+Me: or are you implying the bank will do
+surajpal: responsible**
+Me: I spoke to them, they are saying they need a letter from Amazon saying they haven't recieved the funds
+Can you send me an email with the order details , saying the funds have not been recieved and they were stuck in the gateway
+surajpal: Sure.
+Me: please clearly state the amount, the transaction code that Amazon initiated the payment on
+I need to forward the letter /email to my bank to act on it
+Order No : / Order Data / Bank Account -- transaction details with amount
+You can say amazon repeatedly tried and it didn't go thru
+the reason I'm concerned is the money has been debited from my account already
+surajpal: pavan Please do not worry as per you say.
+I am contacting to the billing team from my end.
+Me: ok thank you , because the bank clearly stated the money has gone
+surajpal: Please make sure within 24 hours we will send you an email regarding the transection number.
+Me: and now they can't act until they hear from the merchant, in this case amazon
+so until, amazon acts they won't do anything
+surajpal: pavan Please do not worry we are here to help you.
+We will definitely help you with the same.
+Me: ok, I'll wait for amazon to send me the issue/problem statement for my order that I can forward to my bank
+surajpal: Please do not worry I am escalating this issue to our billing team from my end.
+Me: is there any reference code that you can share, ticket# number
+surajpal: So that you will get the transection number for refrence.
+Me: so that next I dont need to re-explain the whole sequence
+surajpal: So through that you can contact to the bank.
+Sure.
+pavan Please make sure you have no need to contact us again on this same issue.
+Me: hope so
+are you going to give me a ticket number ?
+surajpal: pavan please make sure you will get the transection number from our end earliest.
+And Please do not worry It will be resolved earliest within next 24 hours definitely.
+Me: alright I'll check back if I don't get any email from amazon
+surajpal: Sure.
+Me: thx
+surajpal: Your always welcome.
+Please feel free to tell me, if there is any thing else apart from this, I may help you with .
