@@ -9,7 +9,7 @@ var gulp = require('gulp'),
 
 //register nodemon task
 gulp.task('nodemon', function () {
-  nodemon({ script: './bin/www', env: { 'NODE_ENV': 'development' }})
+    nodemon({ script: './bin/www', env: { 'NODE_ENV': 'development' }, nodeArgs: ['--inspect']})
     .on('restart');
 });
 

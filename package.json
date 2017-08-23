@@ -9,12 +9,13 @@
     "node": "0.10.x"
   },
   "devDependencies": {
-    "gulp": "latest",
     "bower": "latest",
+    "gulp": "latest",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^1.5.0",
     "gulp-nodemon": "latest",
     "gulp-watch": "~0.6.4",
-    "gulp-jshint": "latest",
-    "gulp-livereload": "^1.5.0"
+    "jshint": "^2.9.5"
   },
   "dependencies": {
     "blueimp-file-upload-expressjs": "^0.2.10",

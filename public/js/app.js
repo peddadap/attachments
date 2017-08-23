@@ -4,9 +4,13 @@ Dropzone.options.myDropzone = {
     // config
     self.options.addRemoveLinks = true;
     self.options.dictRemoveFile = "Delete";
+    self.options.acceptedFiles=".xlsx"
+    self.options.maxFilesize=1,
+    self.maxFiles=2
+    
 
     // load already saved files
-    $.get('/upload', function(data) {
+    $.get('/uploaded/'+document.URL.substr(document.URL.lastIndexOf('/') + 1)+'/', function(data) {
       var files = JSON.parse(data).files;
       for (var i = 0; i < files.length; i++) {
 
@@ -50,13 +54,21 @@ Dropzone.options.myDropzone = {
     self.on("removedfile", function(file) {
       console.log(file);
       $.ajax({
-        url: '/uploaded/files/' + file.name,
+        url: '/uploaded/files/'+ document.URL.substr(document.URL.lastIndexOf('/') + 1) +'/' + file.name,
         type: 'DELETE',
         success: function(result) {
+          console.log('>>About to Delete the File')
           console.log(result);
         }
       });
     });
+
+    self.on("success", function(file) {
+      var a = document.createElement('a');
+      a.setAttribute('href',"/uploads/" + file.fullname);
+      a.innerHTML = "<br>download";
+      file.previewTemplate.appendChild(a);
+      });
 
   }
 };
